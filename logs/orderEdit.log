@@ -1,0 +1,528 @@
+Array
+(
+    [date] => 2020-12-14 07:42:09
+    [data] => 1
+)
+
+Array
+(
+    [date] => 2020-12-14 07:42:22
+    [data] => RetailCrm\Response\ApiResponse Object
+(
+    [statusCode:protected] => 200
+    [rawResponse:protected] => {"success":true,"id":206881,"order":{"slug":206881,"id":206881,"number":"TTK206881","orderType":"eshop-individual","orderMethod":"shopping-cart","countryIso":"RU","createdAt":"2020-12-14 07:27:34","statusUpdatedAt":"2020-12-14 07:27:34","summ":4946,"totalSumm":4946,"prepaySum":0,"purchaseSumm":2260,"markDatetime":"2020-12-14 07:27:34","firstName":"test","patronymic":"test","call":false,"expired":false,"customer":{"type":"customer","id":174486,"isContact":false,"createdAt":"2020-12-14 07:27:34","vip":false,"bad":false,"tags":[],"marginSumm":0,"totalSumm":0,"averageSumm":0,"ordersCount":0,"customFields":{"cancelled_orders_count":0,"completed_orders_count":0},"personalDiscount":0,"segments":[],"phones":[]},"contact":{"type":"customer","id":174486,"isContact":false,"createdAt":"2020-12-14 07:27:34","vip":false,"bad":false,"tags":[],"marginSumm":0,"totalSumm":0,"averageSumm":0,"ordersCount":0,"customFields":{"cancelled_orders_count":0,"completed_orders_count":0},"personalDiscount":0,"segments":[],"phones":[]},"contragent":{"contragentType":"individual"},"delivery":{"cost":0,"netCost":0,"address":{"countryIso":"RU"}},"site":"1minoxidil-ru","status":"new","items":[{"markingCodes":[],"id":413150,"initialPrice":3999,"discountTotal":81,"vatRate":"none","createdAt":"2020-12-14 06:30:38","quantity":1,"status":"new","offer":{"displayName":"**Набор Kirkland Minoxidil 5% \/ Миноксидил - 6 флаконов + Ориг пипетка (коробка)","id":12350,"externalId":"00-00000146","xmlId":"00-00000146","name":"**Набор Kirkland Minoxidil 5% \/ Миноксидил - 6 флаконов + Ориг пипетка (коробка)","article":"mk-1-6","vatRate":"none","unit":{"code":"796","name":"Штука","sym":"шт"},"barcode":"2000000017662"},"properties":[],"purchasePrice":2160},{"markingCodes":[],"id":413151,"initialPrice":249,"discountTotal":10,"vatRate":"none","createdAt":"2020-12-14 06:30:38","quantity":1,"status":"new","offer":{"displayName":"Kirkland 5% Оригинальная пипетка (На продажу)","id":11845,"externalId":"00-00000141","xmlId":"00-00000141","name":"Kirkland 5% Оригинальная пипетка (На продажу)","article":"mk-1-pip","vatRate":"none","unit":{"code":"796","name":"Штука","sym":"шт"},"barcode":"2000000023533"},"properties":[],"purchasePrice":0},{"markingCodes":[],"id":413152,"initialPrice":799,"discountTotal":10,"vatRate":"none","createdAt":"2020-12-14 06:30:38","quantity":1,"status":"new","offer":{"displayName":"DRS\/MNR\/SRS Дермароллер 3 мм иглы + КЕЙС","id":11947,"externalId":"00-00000076","xmlId":"00-00000076","name":"DRS\/MNR\/SRS Дермароллер 3 мм иглы + КЕЙС","article":"drs-3","vatRate":"none","unit":{"code":"796","name":"Штука","sym":"шт"},"barcode":"2000000023137"},"properties":[],"purchasePrice":100}],"payments":{},"fromApi":false,"weight":30,"length":150,"width":100,"height":50,"shipmentStore":"02","shipped":false,"customFields":{"roistat":"844072","oplata_proverena":false,"last_date_samovivoz":"2020-12-23"}}}
+    [response:protected] => Array
+        (
+            [success] => 1
+            [id] => 206881
+            [order] => Array
+                (
+                    [slug] => 206881
+                    [id] => 206881
+                    [number] => TTK206881
+                    [orderType] => eshop-individual
+                    [orderMethod] => shopping-cart
+                    [countryIso] => RU
+                    [createdAt] => 2020-12-14 07:27:34
+                    [statusUpdatedAt] => 2020-12-14 07:27:34
+                    [summ] => 4946
+                    [totalSumm] => 4946
+                    [prepaySum] => 0
+                    [purchaseSumm] => 2260
+                    [markDatetime] => 2020-12-14 07:27:34
+                    [firstName] => test
+                    [patronymic] => test
+                    [call] => 
+                    [expired] => 
+                    [customer] => Array
+                        (
+                            [type] => customer
+                            [id] => 174486
+                            [isContact] => 
+                            [createdAt] => 2020-12-14 07:27:34
+                            [vip] => 
+                            [bad] => 
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 0
+                            [totalSumm] => 0
+                            [averageSumm] => 0
+                            [ordersCount] => 0
+                            [customFields] => Array
+                                (
+                                    [cancelled_orders_count] => 0
+                                    [completed_orders_count] => 0
+                                )
+
+                            [personalDiscount] => 0
+                            [segments] => Array
+                                (
+                                )
+
+                            [phones] => Array
+                                (
+                                )
+
+                        )
+
+                    [contact] => Array
+                        (
+                            [type] => customer
+                            [id] => 174486
+                            [isContact] => 
+                            [createdAt] => 2020-12-14 07:27:34
+                            [vip] => 
+                            [bad] => 
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 0
+                            [totalSumm] => 0
+                            [averageSumm] => 0
+                            [ordersCount] => 0
+                            [customFields] => Array
+                                (
+                                    [cancelled_orders_count] => 0
+                                    [completed_orders_count] => 0
+                                )
+
+                            [personalDiscount] => 0
+                            [segments] => Array
+                                (
+                                )
+
+                            [phones] => Array
+                                (
+                                )
+
+                        )
+
+                    [contragent] => Array
+                        (
+                            [contragentType] => individual
+                        )
+
+                    [delivery] => Array
+                        (
+                            [cost] => 0
+                            [netCost] => 0
+                            [address] => Array
+                                (
+                                    [countryIso] => RU
+                                )
+
+                        )
+
+                    [site] => 1minoxidil-ru
+                    [status] => new
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 413150
+                                    [initialPrice] => 3999
+                                    [discountTotal] => 81
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-14 06:30:38
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => **Набор Kirkland Minoxidil 5% / Миноксидил - 6 флаконов + Ориг пипетка (коробка)
+                                            [id] => 12350
+                                            [externalId] => 00-00000146
+                                            [xmlId] => 00-00000146
+                                            [name] => **Набор Kirkland Minoxidil 5% / Миноксидил - 6 флаконов + Ориг пипетка (коробка)
+                                            [article] => mk-1-6
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => 796
+                                                    [name] => Штука
+                                                    [sym] => шт
+                                                )
+
+                                            [barcode] => 2000000017662
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 2160
+                                )
+
+                            [1] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 413151
+                                    [initialPrice] => 249
+                                    [discountTotal] => 10
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-14 06:30:38
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => Kirkland 5% Оригинальная пипетка (На продажу)
+                                            [id] => 11845
+                                            [externalId] => 00-00000141
+                                            [xmlId] => 00-00000141
+                                            [name] => Kirkland 5% Оригинальная пипетка (На продажу)
+                                            [article] => mk-1-pip
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => 796
+                                                    [name] => Штука
+                                                    [sym] => шт
+                                                )
+
+                                            [barcode] => 2000000023533
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 0
+                                )
+
+                            [2] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 413152
+                                    [initialPrice] => 799
+                                    [discountTotal] => 10
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-14 06:30:38
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => DRS/MNR/SRS Дермароллер 3 мм иглы + КЕЙС
+                                            [id] => 11947
+                                            [externalId] => 00-00000076
+                                            [xmlId] => 00-00000076
+                                            [name] => DRS/MNR/SRS Дермароллер 3 мм иглы + КЕЙС
+                                            [article] => drs-3
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => 796
+                                                    [name] => Штука
+                                                    [sym] => шт
+                                                )
+
+                                            [barcode] => 2000000023137
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 100
+                                )
+
+                        )
+
+                    [payments] => Array
+                        (
+                        )
+
+                    [fromApi] => 
+                    [weight] => 30
+                    [length] => 150
+                    [width] => 100
+                    [height] => 50
+                    [shipmentStore] => 02
+                    [shipped] => 
+                    [customFields] => Array
+                        (
+                            [roistat] => 844072
+                            [oplata_proverena] => 
+                            [last_date_samovivoz] => 2020-12-23
+                        )
+
+                )
+
+        )
+
+)
+
+)
+
+Array
+(
+    [date] => 2020-12-14 07:42:46
+    [data] => RetailCrm\Response\ApiResponse Object
+(
+    [statusCode:protected] => 200
+    [rawResponse:protected] => {"success":true,"id":206881,"order":{"slug":206881,"id":206881,"number":"TTK206881","orderType":"eshop-individual","orderMethod":"shopping-cart","countryIso":"RU","createdAt":"2020-12-14 07:27:34","statusUpdatedAt":"2020-12-14 07:27:34","summ":4946,"totalSumm":4946,"prepaySum":0,"purchaseSumm":2260,"markDatetime":"2020-12-14 07:27:34","firstName":"test","patronymic":"test","call":false,"expired":false,"customer":{"type":"customer","id":174486,"isContact":false,"createdAt":"2020-12-14 07:27:34","vip":false,"bad":false,"tags":[],"marginSumm":0,"totalSumm":0,"averageSumm":0,"ordersCount":0,"customFields":{"cancelled_orders_count":0,"completed_orders_count":0},"personalDiscount":0,"segments":[],"phones":[]},"contact":{"type":"customer","id":174486,"isContact":false,"createdAt":"2020-12-14 07:27:34","vip":false,"bad":false,"tags":[],"marginSumm":0,"totalSumm":0,"averageSumm":0,"ordersCount":0,"customFields":{"cancelled_orders_count":0,"completed_orders_count":0},"personalDiscount":0,"segments":[],"phones":[]},"contragent":{"contragentType":"individual"},"delivery":{"cost":0,"netCost":0,"address":{"countryIso":"RU"}},"site":"1minoxidil-ru","status":"new","items":[{"markingCodes":[],"id":413150,"initialPrice":3999,"discountTotal":81,"vatRate":"none","createdAt":"2020-12-14 06:30:38","quantity":1,"status":"new","offer":{"displayName":"**Набор Kirkland Minoxidil 5% \/ Миноксидил - 6 флаконов + Ориг пипетка (коробка)","id":12350,"externalId":"00-00000146","xmlId":"00-00000146","name":"**Набор Kirkland Minoxidil 5% \/ Миноксидил - 6 флаконов + Ориг пипетка (коробка)","article":"mk-1-6","vatRate":"none","unit":{"code":"796","name":"Штука","sym":"шт"},"barcode":"2000000017662"},"properties":[],"purchasePrice":2160},{"markingCodes":[],"id":413151,"initialPrice":249,"discountTotal":10,"vatRate":"none","createdAt":"2020-12-14 06:30:38","quantity":1,"status":"new","offer":{"displayName":"Kirkland 5% Оригинальная пипетка (На продажу)","id":11845,"externalId":"00-00000141","xmlId":"00-00000141","name":"Kirkland 5% Оригинальная пипетка (На продажу)","article":"mk-1-pip","vatRate":"none","unit":{"code":"796","name":"Штука","sym":"шт"},"barcode":"2000000023533"},"properties":[],"purchasePrice":0},{"markingCodes":[],"id":413152,"initialPrice":799,"discountTotal":10,"vatRate":"none","createdAt":"2020-12-14 06:30:38","quantity":1,"status":"new","offer":{"displayName":"DRS\/MNR\/SRS Дермароллер 3 мм иглы + КЕЙС","id":11947,"externalId":"00-00000076","xmlId":"00-00000076","name":"DRS\/MNR\/SRS Дермароллер 3 мм иглы + КЕЙС","article":"drs-3","vatRate":"none","unit":{"code":"796","name":"Штука","sym":"шт"},"barcode":"2000000023137"},"properties":[],"purchasePrice":100}],"payments":{},"fromApi":false,"weight":30,"length":150,"width":100,"height":50,"shipmentStore":"02","shipped":false,"customFields":{"roistat":"844072","oplata_proverena":false,"last_date_samovivoz":"2020-12-18"}}}
+    [response:protected] => Array
+        (
+            [success] => 1
+            [id] => 206881
+            [order] => Array
+                (
+                    [slug] => 206881
+                    [id] => 206881
+                    [number] => TTK206881
+                    [orderType] => eshop-individual
+                    [orderMethod] => shopping-cart
+                    [countryIso] => RU
+                    [createdAt] => 2020-12-14 07:27:34
+                    [statusUpdatedAt] => 2020-12-14 07:27:34
+                    [summ] => 4946
+                    [totalSumm] => 4946
+                    [prepaySum] => 0
+                    [purchaseSumm] => 2260
+                    [markDatetime] => 2020-12-14 07:27:34
+                    [firstName] => test
+                    [patronymic] => test
+                    [call] => 
+                    [expired] => 
+                    [customer] => Array
+                        (
+                            [type] => customer
+                            [id] => 174486
+                            [isContact] => 
+                            [createdAt] => 2020-12-14 07:27:34
+                            [vip] => 
+                            [bad] => 
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 0
+                            [totalSumm] => 0
+                            [averageSumm] => 0
+                            [ordersCount] => 0
+                            [customFields] => Array
+                                (
+                                    [cancelled_orders_count] => 0
+                                    [completed_orders_count] => 0
+                                )
+
+                            [personalDiscount] => 0
+                            [segments] => Array
+                                (
+                                )
+
+                            [phones] => Array
+                                (
+                                )
+
+                        )
+
+                    [contact] => Array
+                        (
+                            [type] => customer
+                            [id] => 174486
+                            [isContact] => 
+                            [createdAt] => 2020-12-14 07:27:34
+                            [vip] => 
+                            [bad] => 
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 0
+                            [totalSumm] => 0
+                            [averageSumm] => 0
+                            [ordersCount] => 0
+                            [customFields] => Array
+                                (
+                                    [cancelled_orders_count] => 0
+                                    [completed_orders_count] => 0
+                                )
+
+                            [personalDiscount] => 0
+                            [segments] => Array
+                                (
+                                )
+
+                            [phones] => Array
+                                (
+                                )
+
+                        )
+
+                    [contragent] => Array
+                        (
+                            [contragentType] => individual
+                        )
+
+                    [delivery] => Array
+                        (
+                            [cost] => 0
+                            [netCost] => 0
+                            [address] => Array
+                                (
+                                    [countryIso] => RU
+                                )
+
+                        )
+
+                    [site] => 1minoxidil-ru
+                    [status] => new
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 413150
+                                    [initialPrice] => 3999
+                                    [discountTotal] => 81
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-14 06:30:38
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => **Набор Kirkland Minoxidil 5% / Миноксидил - 6 флаконов + Ориг пипетка (коробка)
+                                            [id] => 12350
+                                            [externalId] => 00-00000146
+                                            [xmlId] => 00-00000146
+                                            [name] => **Набор Kirkland Minoxidil 5% / Миноксидил - 6 флаконов + Ориг пипетка (коробка)
+                                            [article] => mk-1-6
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => 796
+                                                    [name] => Штука
+                                                    [sym] => шт
+                                                )
+
+                                            [barcode] => 2000000017662
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 2160
+                                )
+
+                            [1] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 413151
+                                    [initialPrice] => 249
+                                    [discountTotal] => 10
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-14 06:30:38
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => Kirkland 5% Оригинальная пипетка (На продажу)
+                                            [id] => 11845
+                                            [externalId] => 00-00000141
+                                            [xmlId] => 00-00000141
+                                            [name] => Kirkland 5% Оригинальная пипетка (На продажу)
+                                            [article] => mk-1-pip
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => 796
+                                                    [name] => Штука
+                                                    [sym] => шт
+                                                )
+
+                                            [barcode] => 2000000023533
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 0
+                                )
+
+                            [2] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 413152
+                                    [initialPrice] => 799
+                                    [discountTotal] => 10
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-14 06:30:38
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => DRS/MNR/SRS Дермароллер 3 мм иглы + КЕЙС
+                                            [id] => 11947
+                                            [externalId] => 00-00000076
+                                            [xmlId] => 00-00000076
+                                            [name] => DRS/MNR/SRS Дермароллер 3 мм иглы + КЕЙС
+                                            [article] => drs-3
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => 796
+                                                    [name] => Штука
+                                                    [sym] => шт
+                                                )
+
+                                            [barcode] => 2000000023137
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 100
+                                )
+
+                        )
+
+                    [payments] => Array
+                        (
+                        )
+
+                    [fromApi] => 
+                    [weight] => 30
+                    [length] => 150
+                    [width] => 100
+                    [height] => 50
+                    [shipmentStore] => 02
+                    [shipped] => 
+                    [customFields] => Array
+                        (
+                            [roistat] => 844072
+                            [oplata_proverena] => 
+                            [last_date_samovivoz] => 2020-12-18
+                        )
+
+                )
+
+        )
+
+)
+
+)
+
