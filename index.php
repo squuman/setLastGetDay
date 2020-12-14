@@ -2,8 +2,8 @@
 require __DIR__ .'/vendor/autoload.php';
 
 $client = new \RetailCrm\ApiClient(
-    'https://1minoxidil.retailcrm.ru/',
-    '7dLugJ65oI80lW2g0xQIq3ny5tV2MB1x',
+    'url',
+    'key',
     \RetailCrm\ApiClient::V5
 );
 
